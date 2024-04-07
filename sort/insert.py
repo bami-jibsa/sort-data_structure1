@@ -8,3 +8,9 @@ for i in range(1, len(n)):
             print(n)        
 
 print(n)
+# #
+# for i in range(1, len(n)):
+#     for j in range(i, 0, -1):
+#         if Ls[j-1] > Ls[j]:
+#             Ls[j-1], Ls[j] = Ls[j], Ls[j-1]    
+#             print(Ls)
